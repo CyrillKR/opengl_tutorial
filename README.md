@@ -8,3 +8,5 @@ Current progress:
 - 1. OpenGL
 - 2. Creating a window
 - 3. Hello window
+
+## Current lesson: [Hello Triangle](https://learnopengl.com/Getting-started/Hello-Triangle)
